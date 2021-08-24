@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Como criar customizar e postar no seu blog Jekyll"
-date:   2021-05-27 09:15:05 -0300
+date:   2021-07-13 09:15:05 -0300
 categories: jekyll
 ---
 
