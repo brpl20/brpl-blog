@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   online mais prática e automatizada para todos, que não se esqueça da premissa
   básica de nossa humanidade.
 
-baseurl: "www.brunopellizzetti.com.br/blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "www.brunopellizzetti.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: brpl20
 twitter_username: 
