@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Como criar multiplos arquivos com base em uma lista"
-date:   2021-07-13 09:15:05 -0300
+date:   2022-05-27 16:24:05 -0300
 categories: produtividade
 ---
 
