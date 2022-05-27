@@ -23,7 +23,7 @@ Então, vai dar um pouco de trabalho para criar a sua lista criando os arquivos 
 4. Adicione o comando do Linux touch para criar os arquivos.
 5. Selecione tudo e cole no terminal.
 
-![gif](https://github.com/brpl20/brpl-blog/blob/master/_posts/Peek%202022-05-27%2016-18.gif)
+![gif](https://i.imgur.com/PiAMrMR.gif)
 
 
 Pronto! 7 arquivos prontos para serem editados. Você também pode adicionar conteúdo a eles, mas isso fica para um próximo post.
