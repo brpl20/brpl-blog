@@ -7,15 +7,13 @@ categories: produtividade
 
 Você pode ter uma lista de artigos a serem produzidos por exemplo, como este abaixo: 
 
-`
-1 . Introdução
-2 . Parte 1
-3 . Parte 2
-4 . Parte 3
-5 . Parte 4
-6 . Parte 5
-7 . Parte 6
-`
+1. Introdução
+2. Parte 1
+3. Parte 2
+4. Parte 3
+5. Parte 4
+6. Parte 5
+7. Parte 6
 
 Então, vai dar um pouco de trabalho para criar a sua lista criando os arquivos manualmente. O que eu pensei foi uma solução simples usando o Sublime Text, VScode ou qualquer editor de textos a sua escolha. Basta copiar e colar para o editor, selecionar todas as linhas e adicionar os comandos para gerar os arquivos: 
 
