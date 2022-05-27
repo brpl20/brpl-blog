@@ -5,8 +5,6 @@ date:   2022-05-27 16:24:05 -0300
 categories: produtividade
 ---
 
-# Como criar multiplos arquivos com base em uma lista
-
 Você pode ter uma lista de artigos a serem produzidos por exemplo, como este abaixo: 
 
 `
@@ -26,5 +24,8 @@ Então, vai dar um pouco de trabalho para criar a sua lista criando os arquivos 
 3. Adicione as aspas e a extensão .md.
 4. Adicione o comando do Linux touch para criar os arquivos.
 5. Selecione tudo e cole no terminal.
+
+![md](https://github.com/brpl20/brpl-blog/blob/master/_posts/Peek%202022-05-27%2016-18.gif "Gif")
+
 
 Pronto! 7 arquivos prontos para serem editados. Você também pode adicionar conteúdo a eles, mas isso fica para um próximo post.

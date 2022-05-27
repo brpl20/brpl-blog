@@ -5,8 +5,6 @@ date:   2021-07-13 09:15:05 -0300
 categories: jekyll
 ---
 
-# Como criar customizar e postar no seu blog Jekyll
-
 ## 1 - Comece instalando o Jekyll no seu sitema Operacional
 ```shell
 gem install bundler jekyll
@@ -22,7 +20,7 @@ gem install bundler jekyll
 
 ## 3 - Teste
 
-Após estar dentro do seu diretório rode o comando `bundle exec jekyll serve` e digite no navegador de sua escolha `http://localhost:4000/`
+Após estar dentro do seu diretório rode o comando `bundle pec jekyll serve` e digite no navegador de sua escolha `http://localhost:4000/`
 
 Se tudo der certo você já terá um blog básico rodando na sua máquina com o nome de _Your awesome title_ e o Post _Welcome to Jekyll!_. 
 
