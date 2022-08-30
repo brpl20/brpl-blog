@@ -5,33 +5,33 @@ date:   2021-07-13 09:00:00 -0300
 categories: jekyll
 ---
 
-isso é um header 
+isso é um header
 ==========
 
-ou 
+ou
 
 # Header com \#
 
-## Level 2 Header 
+## Level 2 Header
 
 ### Level 3 Header
 
-Parágrafos são separados com uma linha em branco. 
-Vai juntar com a linha anterior. 
+Parágrafos são separados com uma linha em branco.
+Vai juntar com a linha anterior.
 
-Aqui é mais um parágrafo. 
+Aqui é mais um parágrafo.
 
-# Edição Simples 
+# Edição Simples
 
-*Italico*, **negrigo**, e `monospace-em edição`.
+*Italico*, **negrito**, e `monospace-em edição`.
 
-*Este texto está em itálico.* 
+*Este texto está em itálico.*
 
 _Esse sistema também funciona._
 
 <s>riscado (strikeout)</s>
 
-# Listas 
+# Listas
 
 ## Listas Sem Numerar
   * this one
@@ -45,7 +45,7 @@ _Esse sistema também funciona._
  4. lkjs
  5. third item
 
-## Lista Aninhada: 
+## Lista Aninhada:
 
  1. Primeiro, junte estes ingredientes:
 
@@ -61,7 +61,7 @@ _Esse sistema também funciona._
         instruções inscritas com identação diferenciada
 
     \* **Cuidado**: _fique atenta para não queimar!_
-    
+
 4. Continua..
 
 
@@ -74,7 +74,7 @@ _Esse sistema também funciona._
 # Bloco de Citações
 
 > Citação de um autor famoso
-> são assim. 
+> são assim.
 >
 > Pode conter parágrafo como aacima
 
@@ -84,7 +84,7 @@ Estas regras estão sendo seguidas por outras reformas da previdência, a títul
 
 Você também pode linkar um dos headers, por exemplo o de [Edição Simples](#Edição-Simples). **Não esqueça de substituir os espaços por traços neste caso.**
 
-# Imagens 
+# Imagens
 
 ![md](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png "Exemplo de imagem no MD")
 
@@ -93,9 +93,9 @@ Você também pode linkar um dos headers, por exemplo o de [Edição Simples](#E
 
 ***
 
-Separador de linhas 
+Separador de linhas
 
-*** 
+***
 
 # Cores
 - Teste de cor, <span style="color:blue">azul</span>.
@@ -109,33 +109,33 @@ Pelo jeito você está gostando mesmo do MD, até colocou os emojis aqui, tem um
 # Keyboards
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd>
 
-# Scape 
+# Scape
 \*\*barra invertida para gerar asteriscos por exemplo\*.
-\_underscore. 
+\_underscore.
 
 \*\*editado**
 
-# Código 
+# Código
 
-```ruby 
+```ruby
 # Exemplo de Código em Ruby
 def mdcheck(file)
   if md == true
     puts cool
   end
 end
-``` 
+```
 
     ou simplesmente identado
     também irá gerar o código
-    mas sem fazer o highlight 
-    das expressoes como feito 
+    mas sem fazer o highlight
+    das expressoes como feito
     acima no def mdcheck(file)
 
 
 `èm *linha#aaa - monospace`
 
-# Comentar 
+# Comentar
 
 Ao comentar você irá tirar o texto da renderização, os comentários começam com \<!-- e terminam com -->.
 
@@ -154,7 +154,7 @@ Antes da Reforma da Previdência
 |2015-2018      |   85/95        |
 |2019          |    86/96      |
 
-Depois da Reforma: 
+Depois da Reforma:
 
 | Ano | Regra |
 | -------- | -------- |
@@ -174,7 +174,7 @@ Depois da Reforma:
 |2032          |    99/105      |
 |2033          |    100/105      |
 
-Depois da Reforma Professor: 
+Depois da Reforma Professor:
 
 | Ano | Regra |
 | -------- | -------- |
@@ -191,7 +191,7 @@ Depois da Reforma Professor:
 |2029          |    91/100    |
 |2030          |    92/100      |
 
-Depois da Reforma Aposentadoria Especial, ficou condicionada ao elemento de exposição, de 15, 20 ou 25 anos, seguindo uma regra fixa: 
+Depois da Reforma Aposentadoria Especial, ficou condicionada ao elemento de exposição, de 15, 20 ou 25 anos, seguindo uma regra fixa:
 
 
 | Ano | Pontos |
@@ -202,11 +202,11 @@ Depois da Reforma Aposentadoria Especial, ficou condicionada ao elemento de expo
 
 Estas regras estão sendo seguidas por outras reformas da previdência, a título de exemplo a Reforma do [Estado do Paraná](https://www.legislacao.pr.gov.br/legislacao/pesquisarAto.do?action=exibir&codAto=230636&indice=1&totalRegistros=1&dt=5.1.2020.14.39.24.12) e a do [Estado de São Paulo](http://www.spprev.sp.govkkkk.br/novaprevidencia/arquivo_pdf/Emenda%20Constitucional%2049.pdf).
 
-## Estado de São Paulo Aposentadoria Especial: 
+## Estado de São Paulo Aposentadoria Especial:
 
 Não prevê diferenciação quanto as classes de exposição, deixando todos no mesmo patamar mínimo de exposição de 25 anos e prevendo a somatória fixa de **86** pontos para homens e mulheres.
 
-## Estado do Paraná Aposentadoria Especial: 
+## Estado do Paraná Aposentadoria Especial:
 
 | Tipo| Ano |Pontos|
 | -------- | -------- | ------|
@@ -265,6 +265,6 @@ Não prevê diferenciação quanto as classes de exposição, deixando todos no 
 | De 25 Anos | 2023 | 90|
 | De 25 Anos | 2024 | 91|
 
-# Links 
+# Links
 - [Guia-Rapido-Base](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee)
 - [Guia-Github](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
