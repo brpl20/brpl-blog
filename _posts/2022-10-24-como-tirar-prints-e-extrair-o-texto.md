@@ -1,29 +1,38 @@
 ---
 layout: post
-title:  "Autohotkey alternativa para linux texpand espanso"
-date:   2022-07-04 09:53:00 -0300
-categories: produtividade
+title:  "Como tirar prints e extrair o texto da forma mais rápido possível"
+date:   2022-10-24 09:26:00 -0300
+categories: produtividade, linux
 ---
 
-Desde que passei a usar exclusivamente o Linux há mais ou menos três anos, buscava uma alternativa para o [autohotkey](https://www.autohotkey.com/) que foi inclusive, um dos meus primeiro contatos com o mundo da programação, ainda que de forma mais simplificada com apenas alguns scripts que me ajudavam no dia a dia.
+# Explicação e Implementação dos Apps
 
-Mas nunca achei uma alternativa a altura para esse programa. A situação até não foi tão precária porque muitos programas ajudaram na automação de lá para cá, a exemplo do WhatsApp que criou (pelo menos no business) automatização de algumas frases.
+A transmissão de informações tem se tornado cada vez mais visual, encapsulada em pequenas postagens únicas ou divididas em uma série.
 
-Enfim, depois de muitas tentativas frustradas, aplicativos complicados e que tinham funcionalidades reduzidas, algumas semanas atrás me deparei com esse aplicativo, [espanso](https://espanso.org/).
+Muitas vezes é necessário fazer uso deste conteúdo na forma escrita, quando esbarramos com o problema de transformar esta informação.
 
-Eu já criei vários atalhos e inclusive `helpers` que me ajudam a logar em alguns sites evitar digitação excessiva, incluindo:
+Há tempos estava pesquisando uma forma de fazer isso de forma fluída, sem precisar de navegação excessiva entre pastas, comandos e/ou aplicativos diversos e finalmente encontrei a solução. 
 
-- Contas correntes e pix;
-- Ajuda em atalhos de símbolos de teclado, exemplo: § e nº.
-- Email e Endereços;
-- Data atual
+Para implementar essa dica, você vai precisar do seguinte: 
 
-## Configuração
+1. [Linux Ubuntu](https://ubuntu.com/);
+2. [Flameshot](https://github.com/flameshot-org/flameshot) => Aplicativo que tira os prints, um pouco mais versátil do que os disponibilizados pelos sistemas operacionais e linux em geral. 
+3. [Tesseract](https://github.com/tesseract-ocr/tesseract) => Uma biblioteca poderosa para o reconhecimento de texto em imagens, conhecido como OCR. Para dicas de instalação, acesse [aqui](https://tesseract-ocr.github.io/tessdoc/Installation.html) pelo linux é extremamente fácil usando o `sudo apt get`. 
 
-A configuração do aplicativo é bem fácil, basta escolher os delimitadores do seu texto, o atalho, por exemplo `;email` para a expressão expandida e pronto! O app é extremamente rápido e responsivo.
+# Colocando tudo junto com um comando
 
-A configuração é através do arquivo `yml` que é um modelo muito utilizado para diversas configurações, só cuide muito com os espaços e identação das linhas e parágrafos.
+Depois de terminar a instalação, teste o seguinte comando e depois cole em qualquer lugar.
 
-## Comunidade
+`flameshot gui --raw | tesseract stdin stdout | xclip -in -selection clipboard`
 
-Ainda não tive tempo de acessar a comunidade, tirar dúvidas e testar funcionalidades mais complexas, como eu fazia com o autohotkey, mas no momento, tudo que eu tentei e que eu precisava com o espanso está sendo suficiente e muito bem executado, vale a pena testar.
+Ele irá fazer o seguinte: 
+
+1. Abrir o flameshot;
+2. Rodar o tesseract com o material do print;
+3. Jogar isso no clipboard para você colar como um texto qualquer.
+
+Pronto! A mágica está feita. 
+
+# Facilitando sua vida com um atalho 
+
+Depois, vá nas configurações do linux e crie um atalho para este comando, dispensando o uso do terminal. 
