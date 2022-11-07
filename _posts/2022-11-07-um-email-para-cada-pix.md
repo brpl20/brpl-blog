@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Um e-mail para cada pix"
-published: false
+published: true
 categories: Produtividade, Organização 
 ---
 
