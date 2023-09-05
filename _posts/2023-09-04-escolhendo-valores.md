@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Se você não escolhe seus valores - alguém vai escolher por você"
-published: false
+published: true
 categories: Valores, Desafios, Questionamentos
 ---
 
