@@ -5,12 +5,11 @@ published: true
 categories: Valores, Desafios, Questionamentos
 ---
 
-No filme Air, a historia da Nike no Basquete junto com a Família Jordan. Em vários momentos, nos deparamos com os valores da empresa. Temos cortes específicos, zoom in e out, em que podemos ler os valores estampados nas paredes da empresa. Essa exposição excessiva dos valores refletem o antagonismo entre o Presidente da Empresa (Phil Knight / Ben Affleck) e o Herói Desafiador (Sonny Vaccaro / Matt Damon) que estava vivendo os mesmos valores originais da empresa enquanto que o seu fundador já estava "no sistema". Achei muito interessante a empresa expor seus valores daquela forma e o filme ter intencionalmente focado nestes valores, apesar de representar Phil Knight como um pastelão perdido no próprio egocentrismo em vários momentos, desconsiderando seu histórico para a própria formação destes valores e a sua manutenção. Enfim, isso não é uma crítica sobre cinema, mas o constante foco nos valores me chamou atenção e me fez relembrar de um texto que eu tenho deixado de ládo já faz algum tempo sobre *valores pessoais*.
+No filme Air, a historia da Nike no Basquete junto com a Família Jordan. Em vários momentos, nos deparamos com os valores da empresa. Temos cortes específicos, zoom in e out, em que podemos ler os valores estampados nas paredes da empresa. Essa exposição excessiva dos valores refletem o antagonismo entre o Presidente da Empresa (Phil Knight / Ben Affleck) e o Herói Desafiador (Sonny Vaccaro / Matt Damon) que estava vivendo os mesmos valores originais da empresa enquanto que o seu fundador já estava "no sistema". Achei muito interessante a empresa expor seus valores daquela forma e o filme ter intencionalmente focado nestes valores, apesar de representar Phil Knight como um pastelão perdido no próprio egocentrismo em vários momentos, desconsiderando seu histórico para a própria formação destes valores e a sua manutenção. Enfim, isso não é uma crítica sobre cinema, mas o constante foco nos valores me chamou atenção e me fez relembrar de um texto que eu tenho deixado de lado já faz algum tempo sobre *valores pessoais*.
 
 ## Valores da Nike
 
 ![nike-values](https://miro.medium.com/v2/resize:fit:828/format:webp/1*Mxa7bsWx49yqeBL2TqPLAw.jpeg "Nike Values")
-
 
 # A exposição dos Valores 
 
@@ -48,18 +47,9 @@ Muitas vezes você não vai conseguir agir 100% de acordo com os seus valores, o
 
 Quando escrevi sobre isso pela primeira vez, pensei em alguns valores que eu gostaria de adicionar à minha vida e cheguei a um desses valores sobre a verdade e autenticidade. Muitas vezes eu posterguei situações ou menti para mim mesmo para evitar a verdade e o enfrentamento. Hoje, além de continuar atento a este valor, preciso nutri outros, mas por exemplo, busquei expandir para além da simples palavra verdade ou antenticiade, dando um norte: 
 
-1. Saúde: Priorizar a saúde em detrimento de todas as outras responsabilidades. Focar em exercícios, fisioterapia, terapia e alimentação adequada, diminuindo o consumo de álcool. É melhor viver com mais qualidade de vida e por mais tempo do que se destruir por valores menores. Quantas pessoas você já conheceu que "morreram no auge", não se cuidaram e foram embora quando desfrutavam o melhor momento de suas vidas. 
+1. Verdade / Autenticidade: Agir de forma clara e consciente perante as pessoas em todos os aspectos. Não me submeter a situações indesejadas apenas para agradar ou ser "um cara legal". Não me submeter ou baixar a cabeça para abusos e/ou pessoas abusadoras. Buscar em primeiro lugar, um diálogo verdadeiro comigo mesmo. Não propagar falsas verdades ou incertezas, o que sair da minha boca, bem como minhas atitudes, devem revelar sempre a verdade de quem eu sou; A busca da verdade não pode cegar ao questionamento constante das minhas próprias verdades, um homem que se engana não vive a verdade - e quando a verdade se mostrar ilusória, devo cultivar a humildade para mudar de opinião; Antes de julgar alguém ou alguma situação, devo permitir o direito a defesa, como forma de contemplar a verdade dos fatos.
 
-2. Autenticidade: Agir de forma clara e consciente perante as pessoas em todos os aspectos. Não me submeter a situações indesejadas apenas para agradar ou ser "um cara legal". Não dedicar meu tempo a outras pessoas sem a devida remuneração. Não me submeter ou baixar a cabeça para abusos e/ou pessoas abusadoras. Buscar em primeiro lugar, um diálogo verdadeiro comigo mesmo. Não propagar falsas verdades ou incertezas, o que sair da minha boca, bem como minhas atitudes, devem revelar sempre a verdade de quem eu sou; A busca da verdade não pode cegar ao questionamento constante das minhas próprias verdades, um homem que se engana não vive a verdade - e quando a verdade se mostrar ilusória, devo cultivar a humildade para mudar de opinião; Antes de julgar alguém ou alguma situação, devo permitir o direito a defesa, como forma de contemplar a verdade dos fatos.
-
-3. Anti-Preguiça - Modo-Ação: Sair do modo passivo, absorvedor de informações, consumista. Passar para o modo ativo. Tirar as ideias do papel, usar o tempo de maneira positiva e produtiva sem ter medo das consequências, que inclui o próprio enfrentamento da minha incapacidade e incompetência para certos projetos dos quais eu me julgara capaz.
-
-4. Disciplina e Austeridade: Manter o fluxo de atividades, manter os valores em dia, ser rígido quanto às próprias regras e não abrir exceções.
-
-5. Fugralidade: Manter a simplicidade nos hábitos e na vida, economizando e organizando a vida financeira ao redor deste conceito, tendo zelo quanto aos gastos e ao estilo de vida, independente dos ganhos, focar em ter experiências enriquecedoras antes de bens materiais. Cuidar e me disciplinar quanto eu estiver adquirindo alguma coisa pensando mais no que as outras pessoas acharão/pensarão do que aquele bem irá me trazer em relação às minhas necessidade.
-
-6. Realidade: Evitar ao máximo o escapismo da realidade. Enfrentar a vida, as dificuldades e os percalços de cabeça erguida e seguir sempre em frente.
-
+2. Anti-Preguiça - Modo-Ação: Sair do modo passivo, absorvedor de informações, consumista. Passar para o modo ativo. Tirar as ideias do papel, usar o tempo de maneira positiva e produtiva sem ter medo das consequências, que inclui o próprio enfrentamento da minha incapacidade e incompetência para certos projetos dos quais eu me julgara capaz.
 
 ## Desafio - Questionar-se 
 
@@ -73,26 +63,10 @@ Quando escrevi sobre isso pela primeira vez, pensei em alguns valores que eu gos
 
 ## Marco Aurélio - Meditações - Citação
 
-So you know how things stand. Now forget what they think of you. Be satisfied if you can live the rest of your life, however short, as your nature demands. Focus on that. and don't let anything distract you. You've wandered all over and finally realized that you never found what you were after: how to live. Not in syllogism, not in money, or fame, or self-indulgence. Nowhere. 
+Então você sabe como as coisas estão. Agora esqueça o que eles pensam de você. Fique satisfeito se puder viver o resto de sua vida, por mais curta que seja, como sua natureza exige. Concentre-se nisso e não deixe nada distraí-lo. Você andou por todos os lados e finalmente percebeu que nunca encontrou o que procurava: como viver. Não em silogismo, nem em dinheiro, fama ou autoindulgência. Em lugar nenhum.
 
-- Then where is to be found? In doing what human nature requires. 
+- Então, onde pode ser encontrado? Na prática do que a natureza humana requer.
 
-- How? Through first principles. Which should govern your intentions and your actions. 
+- Como? Através dos primeiros princípios. Que devem governar suas intenções e suas ações.
 
-- What principles? Those todo with good and evil. That nothing is good except what leads to fairness, and self-control, and courage, and free will. And nothing bad except what does the opposite. 
-
-- Em resumo, nada é bom que não direcione a Justiça, Controle Pessoal, Coragem e Livre Arbítrio. 
-
-
-
-
-<!-- * Adicione aos valores do imperador os seus próprios, perguntando-se constantemente se a sua ação ou ações exercidas neste momento irão refletir a nobreza dos seus valores (good) ou o oposto (evil). -->
-
-<!-- Na verdade, os valores são uma escolha a longo prazo, você já pode ter feito a sua escolha inconscientemente, enraízados em seu espírito através de exemplo familiares e sociais e nunca ter tirado um tempo para isso, está na hora de refletir e escolher os seus valores de forma consciente. -->
-
-<!-- Estava lendo um livro de Felix Denis, sobre a Arte de Ficar Rico, um livro que irei falar um pouco mais por aqui. Mas por hora, ele menciona que a maioria das pessoas nem sabe como foi parar em determinado ramo e nem sabe porque esta fazendo aquilo.  -->
-
-<!-- No final, ficamos a deriva nesse mundo e grande parte da nossa vida e do que somos é o que outras pessoas empurraram para nós. Também com certeza você já ouviu muito desse papo de caminho, direcionamento e como é importante ter o seu próprio caminho.  -->
-
-
-
+- Quais princípios? Aqueles relacionados ao bem e ao mal. Que nada é bom exceto o que leva à justiça, autocontrole, coragem e livre arbítrio. E nada é ruim exceto o que faz o oposto.
