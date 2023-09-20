@@ -39,6 +39,8 @@ instagram_username: brpl20
 theme: jekyll-theme-persephone
 plugins:
   - jekyll-feed
+  - jekyll-books
+
   
 
 # Exclude from processing.
