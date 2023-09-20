@@ -7,7 +7,7 @@ categories: Valores, Desafios, Questionamentos
 
 No filme Air, a historia da Nike no Basquete junto com a Família Jordan. Em vários momentos, nos deparamos com os valores da empresa. Temos cortes específicos, zoom in e out, em que podemos ler os valores estampados nas paredes da empresa. Essa exposição excessiva dos valores refletem o antagonismo entre o Presidente da Empresa (Phil Knight / Ben Affleck) e o Herói Desafiador (Sonny Vaccaro / Matt Damon) que estava vivendo os mesmos valores originais da empresa enquanto que o seu fundador já estava "no sistema". Achei muito interessante a empresa expor seus valores daquela forma e o filme ter intencionalmente focado nestes valores, apesar de representar Phil Knight como um pastelão perdido no próprio egocentrismo em vários momentos, desconsiderando seu histórico para a própria formação destes valores e a sua manutenção. Enfim, isso não é uma crítica sobre cinema, mas o constante foco nos valores me chamou atenção e me fez relembrar de um texto que eu tenho deixado de lado já faz algum tempo sobre *valores pessoais*.
 
-## Valores da Nike
+## Valores da Nike ... 
 
 ![nike-values](https://miro.medium.com/v2/resize:fit:828/format:webp/1*Mxa7bsWx49yqeBL2TqPLAw.jpeg "Nike Values")
 
