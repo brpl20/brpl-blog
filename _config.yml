@@ -36,8 +36,9 @@ facebook_username:
 instagram_username: brpl20
 
 # Build settings
-theme: jekyll-theme-persephone
+remote_theme: brpl20/jekyll-theme-persephone
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-books
 
