@@ -7,7 +7,7 @@ permalink: /portfolio/
 Passionate web developer with expertise in full-stack Ruby on Rails development and a flair for crafting customized WordPress themes.
 
 ## Github
-![GithubProfile](https://github.com/brpl20)
+<a href="https://github.com/brpl20">GitHub</a>
 
 ## Skills
 - Programming Languages: Ruby, PHP, JavaScript
