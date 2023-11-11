@@ -2,7 +2,7 @@
 layout: post
 title: "Código do Apostador"
 published: true
-categories: apostas, betting
+categories: Apostas
 ---
 
 Há alguns anos escrevi um pequeno manual para me ajudar com as apostas. Já se passaram muitos anos da vida de apostador, porém, com a Copa do Mundo esse assunto **sempre** volta a tona, especialmente no cenário atual em que as apostas esportivas ganharam relevância, quase não vemos um time do Campeonato Brasileiro sem um patrocínio não relaciona do a _Bet-AlgumaCoisa_ e somos bombardeados por diversos comerciais nos intervalos de jogos. Fica extremamente tentador não voltar para esse mundo. 
