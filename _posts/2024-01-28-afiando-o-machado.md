@@ -1,21 +1,20 @@
 ---
 layout: post
 title: "Afiando o Machado - Parte 1: Jornada Espanso"
-published: false
+published: true
 categories: Machado Espanso
 ---
 
-Há muitas histórias da grande disputa entre o jovem lenhador afoito e o velho paciente e estratégico com paciência para afiar seu machado e só depois iniciar o trabalho, mas em resumo: 
+Há muitas histórias da grande disputa entre o jovem lenhador afoito e o velho lenhador paciente e estratégico com paciência para afiar seu machado e só depois iniciar o trabalho, mas em resumo: 
 
 >  Combine habilidades técnicas com uma abordagem calma e informada do que o trabalho puro com força bruta irracional ou _work smarter not harder_.
 
 Em 2024 eu decidi focar mais em "afiar o machado" do que em "metas novas" e resoluções de ano novo. Quero trabalhar de forma mais inteligente fazendo as mesmas atividades que eu fazia em 2023. 
 
 Assim, aproveitando ainda esse início de ano, vou iniciar uma série de textos sobre produtividade, iniciando-se com um app chamado "espanso" que inclusive eu já falei aqui no blog. 
-
 Porque o espanso? Porque ele pode ser usado em Linux e Mac, meus sistemas operacionais atuais e além disso no Windows também, assim eu posso compartilhar com mais pessoas. 
 
-Eu já estava usando o spanso para economizar alguns textos básicos, mas quero levar o seu uso para o próximo nível, incluindo a abreviação de textos, especialmente depois de eu descobrir esse repositório de ... que conseguiu economizar uma quantidade grande de digitação. 
+Eu já estava usando o espanso para economizar alguns textos básicos, mas quero levar o seu uso para o próximo nível, incluindo a abreviação de textos, especialmente depois de eu ler um relato sobre um programadorque conseguiu economizar uma quantidade grande de digitação com uma metodologia parecida. 
 
 Depois vou agilizar agendamento de atividades de forma automatizada combinando com o app "cal", que logo mais será abordado aqui no blog. 
 
@@ -23,10 +22,11 @@ Mas hoje vamos focar apenas neste "autocomplete".
 
 Em resumo, o app complementa abreviações de texto, transformando `ex` em `exemplo` ou `abv` em `abreviação`, além de outras funcionalidades como variáveis e utilização de shell e outros scripts. 
 
+Primeiro eu fiz alguns testes com palavras básicas, adicionando `end` para abreviar `endereço`, porém, não deu certo, porque quando eu usava dentro de outras palavras, por exemplo empreendedor, ele expandia o temo também e ficava mais ou menos isso: empreendereço. 
 
-Primeiro eu fiz alguns testes com palavras básicas, adicionando `end` para abreviar `endereço`, porém, não deu certo, porque quando eu usava dentro de outras palavras, por exemplo empreendedor, ele expandia o temo também e ficava: empreendereço. 
+Então eu adicionei um espaço no "end " e também na resposta para receber o "endereço " já com espaço para continuar digitando as próximas palavras, o que também não deu certo, porque ainda haviam palavras que terminavam com meus atalhos e ele acabava expandindo também.
 
-Então eu adicionei um espaço no "end " e também na resposta para receber o "endereço " já com espaço para continuar digitando as próximas palavras. 
+Agora estou atualmente utilizando um delimitador, por exemplo, um ponto e vírgula ";" depois do atalho, assim dificilmente eu vou ter um conflito com alguma palavra que eu queira abreviar.
 
 Mas como saber quais são as palavras mais utilizadas? 
 
@@ -290,34 +290,34 @@ Assim o comando pega todos os arquivos da pasta e direciona a um único arquivo,
 No arquivo `yml` do espanso ficou assim: 
 
 ```yml
-  - trigger: "end "
+  - trigger: "end;"
     replace: "endereço "
-  - trigger: "con "
+  - trigger: "con;"
     replace: "conseguiu? "
-  - trigger: "q "
+  - trigger: "q;"
     replace: "que "
-  - trigger: "n "
+  - trigger: "n;"
     replace: "não "
-  - trigger: "pa "
+  - trigger: "pa;"
     replace: "para " 
-  - trigger: "vc "
+  - trigger: "vc;"
     replace: "você " 
-  - trigger: "ma "
+  - trigger: "ma;"
     replace: "mais " 
-  - trigger: "cm "
+  - trigger: "cm;"
     replace: "como " 
-  - trigger: "tb "
+  - trigger: "tb;"
     replace: "também "
-  - trigger: "ex "
+  - trigger: "ex;"
     replace: "exemplo "
-  - trigger: "dp "
+  - trigger: "dp;"
     replace: "depois " 
-  - trigger: "qd "
+  - trigger: "qd;"
     replace: "quando " 
-  - trigger: "tds "
+  - trigger: "tds;"
     replace: "todos "
 ```
 
-Comecei com estes dez porque também nada possuir uma centena de atalhos se você não vai conseguir ter pratica suficiente para utiliza-los. Acabei de me deparar com mais um bug quando o termo é selecionado no final da palavra, por exemplo tenho o "ma " mas quando eu vou escrever "uma" ele usa o "ma " para expandir. Mas é algo que vou trabalhar ainda. O objetivo é dominar o uso destes e depois ir implementandando cada vez mais atalhos. 
+Comecei com estes dez porque também nada possuir uma centena de atalhos se você não vai conseguir ter pratica suficiente para utiliza-los, a segunda etapa agora será aprender a utilizar estes atalhos de forma intuitiva.
 
 
