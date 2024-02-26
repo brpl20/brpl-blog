@@ -2,7 +2,7 @@
 layout: post
 title: "OverDelivery"
 published: true
-categories: Produtividade, Organização, Trabalho 
+categories: produtividade
 ---
 
 Diante da minha própria ignorância tenho que recorrer a termos importados para explicar determinado fato. O que tenho a explicar hoje é sobre a prestação de serviços de todas as modalidades e a sua "entrega". Não digo só nos serviços autônomos, mas em toda ação humana, de modo geral.

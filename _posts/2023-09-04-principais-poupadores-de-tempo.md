@@ -2,7 +2,7 @@
 layout: post
 title: "Principais Poupadores de Tempo"
 published: true
-categories: Produtividade
+categories: produtividade
 ---
 
 ## Configurar busca diretamente dos sites que você utiliza

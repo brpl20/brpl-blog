@@ -2,7 +2,7 @@
 layout: post
 title: "Design Panettone Bauducco 2023"
 published: true
-categories: Design
+categories: questionamentos
 ---
 
 Já se passaram 20 minutos desde o primeiro despertador e a minha soneca parece que durou apenas 2. Quase todos os dias tenho essas sensações de que o tempo passa de forma mais acelerada que o normal.  

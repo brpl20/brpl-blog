@@ -2,7 +2,7 @@
 layout: Latex, Overleaf e Patentes
 title: Latex, Overleaf e Patentes
 published: true
-categories: ideias
+categories: produtividade
 ---
 
 # Latex
@@ -20,7 +20,7 @@ Inclusive o Overleaf disponibiliza templates (modelos) para você trabalhar mais
 Combinando essa ferramenta com alguns modelos prontos, é muito fácil criar determinados trabalhos que precisam seguir a determinadas regras específicas, de forma que o usuário só precisa focar no conteúdo final. 
 
 # Patentes 
-Considerando todos estes tópicos, acabei encontrando um modelo perefito para um problema que eu estava enfrentando em um pedido de patentes que eu estava fazendo o requerimento.
+Considerando todos estes tópicos, acabei encontrando um modelo perfeito para um problema que eu estava enfrentando em um pedido de patentes que eu estava fazendo o requerimento.
 
 Depois de ler tantas regras da INPI, acabei desistindo de tentar montar um modelo ideal e busquei um template, por sorte, encontrei uma produção  quando você for escrever uma patente do Yuri Molina Rodriguez e Cleonilson Protasio de Souza na plataforma da Ovearleaf.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Hacks de Produtividade de Ali "
 published: true
-categories: Produtividade
+categories: produtividade
 ---
 
 # Ali Abdall 

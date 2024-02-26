@@ -2,7 +2,7 @@
 layout: post
 title:  "As Armas da Persuasão"
 date:   2022-10-24 09:26:00 -0300
-categories: persuasão
+categories: marketing
 ---
 
 Há muito tempo me deparei com um resumo no [Youtube](https://www.youtube.com/watch?v=cFdCzN7RYbw) do livro, as Armas da Persuasão - Science of Persuasion de Robert Cialdini e Steve Martin. 

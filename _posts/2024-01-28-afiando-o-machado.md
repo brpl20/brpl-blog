@@ -2,7 +2,7 @@
 layout: post
 title: "Afiando o Machado - Parte 1: Jornada Espanso"
 published: true
-categories: Machado Espanso
+categories: produtividade
 ---
 
 Há muitas histórias da grande disputa entre o jovem lenhador afoito e o velho lenhador paciente e estratégico com paciência para afiar seu machado e só depois iniciar o trabalho, mas em resumo: 

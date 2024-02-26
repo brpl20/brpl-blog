@@ -2,7 +2,7 @@
 layout: post
 title: "Primeiro Bacon Caseiro"
 published: true
-categories: Culinária, Charcutaria
+categories: culinaria
 ---
 
 Há muito tempo tenho tido interesse em Charcutaria e nada melhor para começar do que um bom pedaço de bacon. 

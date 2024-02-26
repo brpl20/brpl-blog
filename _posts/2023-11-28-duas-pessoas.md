@@ -2,7 +2,7 @@
 layout: post
 title: "Só existem dois tipos de pessoas no mundo - os que aprendem e os que ignoram"
 published: true
-categories: Vida
+categories: questionamentos
 ---
 
 Demorei muito para entender uma lição simples. O mundo se divide em dois tipos de pessoas: _Os que aprendem e o que ignoram._ 

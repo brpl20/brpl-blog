@@ -2,7 +2,7 @@
 layout: post
 title:  "Como tirar prints e extrair o texto da forma mais rápido possível"
 date:   2022-10-24 09:26:00 -0300
-categories: produtividade, linux
+categories: produtividade
 ---
 
 # Explicação e Implementação dos Apps

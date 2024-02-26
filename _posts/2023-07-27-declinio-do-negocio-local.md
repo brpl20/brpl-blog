@@ -2,7 +2,7 @@
 layout: post
 title: "Triste Declínio do Negócio Local"
 published: true
-categories: Modernidade, Monopolio, Questionamentos
+categories: questionamentos
 ---
 
 Um fenômeno que tem me chamado atenção é o aumento de locais no centro da cidade disponíveis para locação.

@@ -2,7 +2,7 @@
 layout: post
 title: "Um e-mail para cada pix"
 published: true
-categories: Produtividade, Organização 
+categories: produtividade
 ---
 
 Uma dica rápida de produtividade, crie um e-mail para cada PIX que você tenha. Claro que o ideal é que você tenha um e-mail com registro próprio, fica bem mais fácil para criar as contas. 

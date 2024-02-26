@@ -2,7 +2,7 @@
 layout: post
 title: "Pessoas e Pessoas - O eterno dilema dos pequenos negócios"
 published: true
-categories: Aprendizados Emyth
+categories: questionamentos
 ---
 
 Após ler o livro E-Myth - O mito do empreendedor", uma das lições que eu aprendi foi: 

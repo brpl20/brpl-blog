@@ -2,7 +2,7 @@
 layout: post
 title: "A beleza é absoluta"
 published: true
-categories: Pensamentos Aleatórios
+categories: questionamentos
 ---
 
 Nas minhas navegações do Newsletter do Hackernews de sexta me deparei com um post sobre dois fotógrafos que possivelmente copiaram uma foto um do outro, os dois publicaram a mesma foto em seus blogs. De fato, as fotografias eram idênticas, não haveria nenhuma explicação plausível senão um plágio descarado, entretanto, o desfecho foi surpreendedor, para não estragar a história, leia a matéria original no link abaixo: 

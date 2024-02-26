@@ -2,7 +2,7 @@
 layout: post
 title: "Um lembrete a mim mesmo sobre o mundo fake e saindo do modo consumo para o modo produtivo"
 published: true
-categories: Rede Social, Lembretes, Questionamentos
+categories: questionamentos
 ---
 
 Me flagrei acreditando no conteúdo ilusório das redes sociais (e frequentemente caio nessa). Já estava imaginando milhões de possibilidades baseadas em informações imprecisas e irreais, comparando minha vida realidade com a "realidade" de postagens em redes sociais.
