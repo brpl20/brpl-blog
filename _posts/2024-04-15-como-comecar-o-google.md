@@ -5,8 +5,6 @@ published: true
 categories: hackernews modocriativo
 ---
 
-# Como começar uma emrpesa como a Google?
-
 Esse é um repost do texto publicado por Paul Graham no seu [blog](https://paulgraham.com/google.html). Em resumo, aprenda e execute, faça coisas, produza. E esse é mais do que um pensamento que eu tenho tido nos últimos tempos. Tem sido um estilo de vida, uma ideia, um propósito e uma filosofia pela qual eu tenho seguido. Esta é uma ideia que eu planejo desenvolver mais no decorrer dos próximos posts do blog. 
 
 Eu jamais construi nada parecido com a Google e seria muita pretensão vir aqui falar sobre isso, porém o Paul Graham é um cara muito conhecido e respeitado no meio das Startups. 
@@ -57,9 +55,7 @@ Você não precisa aprender programação, no entanto. Se você está se pergunt
 
 Steve Jobs, o fundador da Apple, passou um tempo quando era adolescente estudando caligrafia — o tipo de escrita bonita que você vê em manuscritos medievais. Ninguém, incluindo ele próprio, pensava que isso o ajudaria em sua carreira. Ele estava apenas fazendo isso porque estava interessado. Mas acabou ajudando-o muito. O computador que fez a Apple realmente crescer, o Macintosh, chegou exatamente no momento em que os computadores se tornaram poderosos o suficiente para fazer letras como as de livros impressos, em vez das letras com cara de computador que você vê em jogos de 8 bits. A Apple arrasou todo mundo nisso e um dos motivos foi que Steve Jobs era uma das poucas pessoas na área de informática que realmente entendiam de design gráfico.
 
-Não ach
-
-e que seus projetos precisam ser sérios. Eles podem ser tão frívolos quanto você quiser, desde que você esteja construindo coisas que o entusiasmem. Provavelmente, 90% dos programadores começam construindo jogos. Eles e os amigos gostam de jogar jogos. Então, eles constroem as coisas que eles e os amigos querem. E isso é exatamente o que você deveria estar fazendo aos 15 anos se quer começar uma startup um dia.
+Não ache que seus projetos precisam ser sérios. Eles podem ser tão frívolos quanto você quiser, desde que você esteja construindo coisas que o entusiasmem. Provavelmente, 90% dos programadores começam construindo jogos. Eles e os amigos gostam de jogar jogos. Então, eles constroem as coisas que eles e os amigos querem. E isso é exatamente o que você deveria estar fazendo aos 15 anos se quer começar uma startup um dia.
 
 Você não tem que fazer apenas um projeto. De fato, é bom aprender sobre várias coisas. Steve Jobs não apenas aprendeu caligrafia. Ele também aprendeu sobre eletrônica, o que foi ainda mais valioso. Seja lá o que você estiver interessado. (Você percebe um tema aqui?)
 
