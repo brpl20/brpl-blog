@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Como começar o Google"
+title: "Como começar o Google - Repost"
 published: true
-categories: hackernews modocriativo
+categories: hackernews
 ---
 
 Esse é um repost do texto publicado por Paul Graham no seu [blog](https://paulgraham.com/google.html). Em resumo, aprenda e execute, faça coisas, produza. E esse é mais do que um pensamento que eu tenho tido nos últimos tempos. Tem sido um estilo de vida, uma ideia, um propósito e uma filosofia pela qual eu tenho seguido. Esta é uma ideia que eu planejo desenvolver mais no decorrer dos próximos posts do blog. 
@@ -19,7 +19,7 @@ Eu jamais construi nada parecido com a Google e seria muita pretensão vir aqui 
 >
 >A contribuição de Paul Graham ao mundo da tecnologia e empreendedorismo é extensa, tanto através de suas realizações empresariais quanto por ser um pensador e escritor influente no campo. Sua capacidade de combinar perspicácia técnica com uma profunda compreensão do que faz os negócios terem sucesso ajudou a moldar a forma como as startups são construídas e crescem na era moderna da internet.
 
-**Hacker News é a melhor plataforma de notícias do mundo e a únida newsletter que eu assino e que realmente eu sinto falta quando não chega.**
+**Hacker News é a melhor plataforma de notícias do mundo e a única newsletter que eu assino e que realmente eu sinto falta quando não chega.**
 
 Agora vamos ao texto... 
 

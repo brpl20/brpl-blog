@@ -2,7 +2,7 @@
 layout: post
 title: "A Mentalidade Hacker"
 published: true
-categories: questionamentos produtividade
+categories: questionamentos
 ---
 
 # A Mentalidade Hacker
