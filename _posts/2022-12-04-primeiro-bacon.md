@@ -11,7 +11,7 @@ Segui a receita da [Charcutaria.gov](https://charcutaria.org/) exceto pelo erito
 
 Depois de separar todos os temperos, nas suas respectivas medidas, deixei curando na geladeira em um pacote por aproximadamente uma semana, até chegar a defumadora, que eu já havia encomendado.
 
-Acabei utilizando um modelo elétrico com um controlador de temperatura. Então dependendo da temperatura escolhida o controlador irá comandar mais ou menos eletrecidade para a resistência. Caso tenha interesse, procure pelo modelo de defumadora Def-350. 
+Acabei utilizando um modelo elétrico com um controlador de temperatura. Então dependendo da temperatura escolhida o controlador irá comandar mais ou menos eletricidade para a resistência. Caso tenha interesse, procure pelo modelo de defumadora Def-350. 
 
 É uma defumadora simples, você vai gastar pouco tempo montando ela e a ideia é que você não tenha tanto trabalho com a defumação. Acompanha um manual bem completo sobre sua utilização e técnicas de defumação, vem com os ganchos para pendurar as carnes até algumas madeiras para a defumação inicial.
 
@@ -25,7 +25,7 @@ De bônus, ainda deixei uma coxa de frango defumando por mais umas 5 horas, que 
 
 # Aprendizados 
 - Compre os ingredientes nos mercados locais, evite sites de "especialistas", pois são extremamente caros e não há segredo nenhum neste tipo de ingrediente; 
-- Da mesma forma, evite ingredientes prontos, pacotes de especiarias e afins, também são sobreprecificados e você não tem controle nem conhecimento sobre o que existe naqueles pacotinhos.  
-- A grande dificuldade foi a madeira em lascas, que cria muita fumaça e logo depois vira carvão, como relatei no processo acima. Da próxima vez vou utilizar madeiras maçicas para experimentar a diferença.
+- Da mesma forma, evite ingredientes prontos, pacotes de especiarias e afins, também são sobre-precificados e você não tem controle nem conhecimento sobre o que existe naqueles pacotinhos.  
+- A grande dificuldade foi a madeira em lascas, que cria muita fumaça e logo depois vira carvão, como relatei no processo acima. Da próxima vez vou utilizar madeiras maciças para experimentar a diferença.
 - Experimentar um pouco menos de sal nas próximas receitas para verificar a diferença no paladar. 
 - O bacon fica uma delícia na feijoada, achei que ia ficar com muito gosto de defumado, mas o sabor ficou muito melhor. 

@@ -25,9 +25,9 @@ Talvez não tenha sequer ideia por onde começar, o que também pode ser ótimo!
 
 Depois de definir extrair seus valores básicos, dificilmente você poderá mudá-los, a menos que tenha passado por alguma grande experiência, uma virada espiritual, filosófica ou qualquer coisa do gênero que possa justificar a mudança. A ideia é justamente que sejam fixos, imutáveis e inquebráveis. Os valores servem para consolidar, solidificar quem você é e quais as suas ações no sentido de cumprir com os seus valores. 
 
-O mais difícil é justamente manter seu histórico diante dos seus valores. Compreender se você está realmente os seguindo a risca, se as sua ações refletem o seus valores diariamente, semanalmente, mesalmente eno decorrer de toda uma vida. 
+O mais difícil é justamente manter seu histórico diante dos seus valores. Compreender se você está realmente os seguindo a risca, se as sua ações refletem o seus valores diariamente, semanalmente, mensalmente eno decorrer de toda uma vida. 
 
-Dedicando tempo e atenção para os seus valores, você os terá muito bem definidos, é um dos aliçerces que constitui um homem e a sua vida. Quando você tem sua base forte e direcionada, você não se perderá diantes de tentações e promessas fáceis. Suas decisões se tornam cristalinas, rápidas e isentas de dúvidas e acima de tudo, você não sofrerá desvios dos seus objetivos.
+Dedicando tempo e atenção para os seus valores, você os terá muito bem definidos, é um dos alicerces que constitui um homem e a sua vida. Quando você tem sua base forte e direcionada, você não se perderá diante de tentações e promessas fáceis. Suas decisões se tornam cristalinas, rápidas e isentas de dúvidas e acima de tudo, você não sofrerá desvios dos seus objetivos.
 
 É muito mais fácil rejeitar uma promessa de ganhos rápidos em que você precisa prejudicar um dos seus valores. Porque perder tempo e energia com situações que em primeiro lugar, confrontam seus valores primordiais? **Não faz sentido**.
 
@@ -35,17 +35,17 @@ De um modo geral, seus valores são universais e estarão presentes em todos os 
 
 Os valores devem ser resumidos, mas não podem se limitar apenas a uma palavra, por exemplo: **VERDADE**. É preciso explorar um pouco mais o conceito de valores, buscando entender seu significado e as suas implicações na vida prática. Do contrário, serão apenas palavras amontoadas em uma lista genérica que não servirá para muita coisa.
 
-A ideia é que os valores sejam sua bussôla, seu norte, sua ferramenta para ter uma vida digna e alinhada com seus maiores propósitos.
+A ideia é que os valores sejam sua bussola, seu norte, sua ferramenta para ter uma vida digna e alinhada com seus maiores propósitos.
 
 **Não se esqueça:** Antes de tudo, os valores servem para o seu diálogo interno e em primeiro lugar para as ações consigo mesmo. Se você escolhe a verdade, em primeiro lugar você não pode mais se enganar. Você não pode mentir para si mesmo e nem ter uma postura conflitante com os seus valores ideais. Nem mesmo para agradar os outros, você não pode ser conflituoso nem mesmo "da boca pra fora". Você não pode dizer a você e ao mundo que está numa dieta mas quando está sozinho se encher de porcaria.  
 
 Se a sua prioridade é a busca pela verdade diante de si mesmo, então você precisa ser sincero, mesmo que isso significa perder em outras áreas de sua vida. Ser sincero e verdadeiro também não significa ser um idiota que não sabe a sutil arte da escolha das palavras e de como escolhe-las de acordo com a pessoa ou a situação.
 
-Os seus valores devem ser tratados como uma planta, uma sementinha que é plantada no nomento da sua escolha consciente que está realizando a partir do momento de reflexão. Com o passar do tempo essa semente vai crescer e se tornar forte e robusta, como uma árvore firme e bem nutrida, indestrutível. Até você conseguir chegar nesta fase, terá que passar por muitas dificuldades, tempestades, até se tornar forte e segura. Quanto mais você exerce seus valores, maiores eles ficarão. Se você os quebra, eles enfraquecem e morrem dentro de você. 
+Os seus valores devem ser tratados como uma planta, uma sementinha que é plantada no momento da sua escolha consciente que está realizando a partir do momento de reflexão. Com o passar do tempo essa semente vai crescer e se tornar forte e robusta, como uma árvore firme e bem nutrida, indestrutível. Até você conseguir chegar nesta fase, terá que passar por muitas dificuldades, tempestades, até se tornar forte e segura. Quanto mais você exerce seus valores, maiores eles ficarão. Se você os quebra, eles enfraquecem e morrem dentro de você. 
 
 Muitas vezes você não vai conseguir agir 100% de acordo com os seus valores, o que é perfeitamente normal especialmente se você vem de uma mudança de paradigma recente. Porém, pense e reflita também sobre seus acertos e sobre como você fortaleceu seus valores em outras situações, não qualifique somente seus atos negativos, a vida é feita de vitórias e derrotas.
 
-Quando escrevi sobre isso pela primeira vez, pensei em alguns valores que eu gostaria de adicionar à minha vida e cheguei a um desses valores sobre a verdade e autenticidade. Muitas vezes eu posterguei situações ou menti para mim mesmo para evitar a verdade e o enfrentamento. Hoje, além de continuar atento a este valor, preciso nutri outros, mas por exemplo, busquei expandir para além da simples palavra verdade ou antenticiade, dando um norte: 
+Quando escrevi sobre isso pela primeira vez, pensei em alguns valores que eu gostaria de adicionar à minha vida e cheguei a um desses valores sobre a verdade e autenticidade. Muitas vezes eu posterguei situações ou menti para mim mesmo para evitar a verdade e o enfrentamento. Hoje, além de continuar atento a este valor, preciso nutri outros, mas por exemplo, busquei expandir para além da simples palavra verdade ou autenticidade, dando um norte: 
 
 1. Verdade / Autenticidade: Agir de forma clara e consciente perante as pessoas em todos os aspectos. Não me submeter a situações indesejadas apenas para agradar ou ser "um cara legal". Não me submeter ou baixar a cabeça para abusos e/ou pessoas abusadoras. Buscar em primeiro lugar, um diálogo verdadeiro comigo mesmo. Não propagar falsas verdades ou incertezas, o que sair da minha boca, bem como minhas atitudes, devem revelar sempre a verdade de quem eu sou; A busca da verdade não pode cegar ao questionamento constante das minhas próprias verdades, um homem que se engana não vive a verdade - e quando a verdade se mostrar ilusória, devo cultivar a humildade para mudar de opinião; Antes de julgar alguém ou alguma situação, devo permitir o direito a defesa, como forma de contemplar a verdade dos fatos.
 
@@ -53,7 +53,7 @@ Quando escrevi sobre isso pela primeira vez, pensei em alguns valores que eu gos
 
 ## Desafio - Questionar-se 
 
-1. Eu ralmente sei quais são meus valores? 
+1. Eu realmente sei quais são meus valores? 
 
 2. De onde eles vêm? 
 

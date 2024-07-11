@@ -21,7 +21,7 @@ Art. 5 - Na arbitragem, busque prever o resultado e movimento das pessoas e não
 
 Art. 6 - As zebras da copa sempre acontecem nos primeiros jogos, quando os times ainda estão desorganizado, busque boas odds e arrisque; 
 
-Art. 7 - As zebra não necessariamente irão vencer os jogos seguintes, mesmo com adversarios mais fracos, fique atento a mudança de odds pois a tendência é de um super-crédito em favor destes times;  
+Art. 7 - As zebra não necessariamente irão vencer os jogos seguintes, mesmo com adversários mais fracos, fique atento a mudança de odds pois a tendência é de um super-crédito em favor destes times;  
 
 Art. 8 - Busque sempre apostar em jogos decisivos, viradas do favorito ou jogos mortos de última rodada de campeonato (over/under); 
 
@@ -35,7 +35,7 @@ Art. 12 - Se algo é difícil de prever então aposte no improvável. O impossí
  
 Art. 13 - Quando realizar apostas ao vivo prefira sempre assistir o jogo;
 
-Art. 14 - Analise o que puder, bandeirinhas, juizes, times, jogadores, pontos fortes fracos, temperamento, campos, temperaturas cada conhecimento que lhe de uma margem é importante;
+Art. 14 - Analise o que puder, bandeirinhas, juízes, times, jogadores, pontos fortes fracos, temperamento, campos, temperaturas cada conhecimento que lhe de uma margem é importante;
 
 Art. 15 - Não tenha medo de odds altas, não necessariamente elas refletem a realidade, aí que está o valor;
 

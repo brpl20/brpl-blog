@@ -31,7 +31,7 @@ Importa mais em como você fornece o benefício do que o que você está oferece
 _Quem quer rir, tem que fazer rir - Tropa de Elite_
 
 ## Estudo 
-Nos restaurantes quando o garçom trás a conta, trás junto uma bala. Em estudos uma bala aumentam 3 por cento. Com duas balas as gorgetas saltam para 14 por cento. Se o garçom der uma bala, depois voltar, e falar, para vocês, pessoas legais, uma bala extra, a gorgeta sobe 23 por cento. Não importa o que foi dado, mas como foi dado: Personalizado e inesperado. 
+Nos restaurantes quando o garçom trás a conta, trás junto uma bala. Em estudos uma bala aumentam 3 por cento. Com duas balas as gorjetas saltam para 14 por cento. Se o garçom der uma bala, depois voltar, e falar, para vocês, pessoas legais, uma bala extra, a gorgeta sobe 23 por cento. Não importa o que foi dado, mas como foi dado: Personalizado e inesperado. 
 
 # Escassez
 _As pessoas querem mais daquilo que tem menos._

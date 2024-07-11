@@ -14,7 +14,7 @@ Em 2024 eu decidi focar mais em "afiar o machado" do que em "metas novas" e reso
 Assim, aproveitando ainda esse início de ano, vou iniciar uma série de textos sobre produtividade, iniciando-se com um app chamado "espanso" que inclusive eu já falei aqui no blog. 
 Porque o espanso? Porque ele pode ser usado em Linux e Mac, meus sistemas operacionais atuais e além disso no Windows também, assim eu posso compartilhar com mais pessoas. 
 
-Eu já estava usando o espanso para economizar alguns textos básicos, mas quero levar o seu uso para o próximo nível, incluindo a abreviação de textos, especialmente depois de eu ler um relato sobre um programadorque conseguiu economizar uma quantidade grande de digitação com uma metodologia parecida. 
+Eu já estava usando o espanso para economizar alguns textos básicos, mas quero levar o seu uso para o próximo nível, incluindo a abreviação de textos, especialmente depois de eu ler um relato sobre um programador que conseguiu economizar uma quantidade grande de digitação com uma metodologia parecida. 
 
 Depois vou agilizar agendamento de atividades de forma automatizada combinando com o app "cal", que logo mais será abordado aqui no blog. 
 
@@ -41,7 +41,7 @@ Primeiro achei um post no StackOverflow (https://stackoverflow.com/questions/105
 `sed -e  's/[^A-Za-z]/ /g' text.txt | tr 'A-Z' 'a-z' | tr ' ' '\n' | grep -v '^$'| sort | uniq -c | sort -rn
 `
 
-Executei os comandos e deu certo, a apartir daí bastava eu fazer o looping em todos os arquivos e repetir o comando anterior. 
+Executei os comandos e deu certo, a partir daí bastava eu fazer o looping em todos os arquivos e repetir o comando anterior. 
 
 Percebi que a abordagem do looping não seria adequada, pois eu teria que reorganizar os resultados em alguma planilha e depois fazer uma somatória, uma vez que no looping eu teria resultados repartidos. 
 
@@ -271,7 +271,7 @@ Assim o comando pega todos os arquivos da pasta e direciona a um único arquivo,
   10 contas
   10 aqui
 
-  Além de diversos itens que se repetiram menos de dez vezes, a partir desta lista comecei a fazer os meus atalhos expandíveis. 
+  Além de diversos itens que se repetiram menos de dez vezes, a partir desta lista comecei a fazer os meus atalhos expansíveis. 
   
   Apesar de pequenas de, que, não, decidir expandir também, uma vez que a repetição é muito frequente. A lista ficou assim: 
   

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O hobby da Marcenria e Quando eu dei Um passo maior do que a perna"
+title: "O hobby da Marcenaria e Quando eu dei Um passo maior do que a perna"
 published: true
 categories: Aprendizados
 ---
@@ -13,7 +13,7 @@ Não gostei muito do serviço. Achei lento, teve acabamentos não finalizados (q
 
 Neste processo de readaptação dos móveis do escritório eu acabei aposentando  uma velha mesa que estava parcialmente fixada na parede. Ela estava amparada por dois pês de metal além da fixação na parede. 
 
-Como um bom gambiarreiro, reaproveitei a mesa na minha casa. Porém, obviamente tive que adapta-la agora sem a fixação na parede, ou seja, eu precisava completar o jogo de pés para ela ficar utilizável. 
+Como um bom "gambiarreiro", reaproveitei a mesa na minha casa. Porém, obviamente tive que adapta-la agora sem a fixação na parede, ou seja, eu precisava completar o jogo de pés para ela ficar utilizável. 
 
 O próprio marceneiro me indicou a "LOJA" e quando eu cheguei lá achei "a Meca da Marcenaria", tudo que você imaginar de materiais e ferramentas de todos os tipos. 
 
@@ -25,7 +25,7 @@ Eu estava precisando de dois criados mudos e as opções não eram legais, parec
 
 No final, toda essa peregrinação foi útil porque foram se somando as ideias até eu chegar no produto final e na decisão de encarar o desafio de fazer o móvel eu mesmo. 
 
-Eu também precisava de uma mesa decente e algumas prateleiras, mas como eu tinha feito a gambiarra com a mesa do escritório adicionando os dois pezinhos, eu decidi priorizar o criado mudo e ficar com a minha mesa meio bamba por mais um tmepo. 
+Eu também precisava de uma mesa decente e algumas prateleiras, mas como eu tinha feito a gambiarra com a mesa do escritório adicionando os dois pezinhos, eu decidi priorizar o criado mudo e ficar com a minha mesa meio bamba por mais um tempo. 
 
 O primeiro passo foi contratar uma projetista de móveis para fazer o desenho para mim. Não compensava eu gastar tanto tempo aprendendo a desenhar os móveis. O tempo de aprendizado e a chance de ocorrer um erro de projeto era muito grande e o valor do profissional seria muito compensatório.  
 
@@ -57,7 +57,7 @@ Não é como comprar um móvel pela internet com todos os furos e guias e nem me
 
 Enfim, não consegui ajuda e a minha vontade era jogar tudo pela janela literalmente e aceitar o prejuízo e a vergonha das minhas escolhas precipitadas. 
 
-O tempo vai passando e depois de muitos tutoriais do Youtube eu ainda não conseguia ter ideia por onde começar e o móvel estava acumulando poeira e atrapalhando minha rotina. Parecia que eu não tinha para onde fugir. 
+O tempo vai passando e depois de muitos tutoriais do YouTube eu ainda não conseguia ter ideia por onde começar e o móvel estava acumulando poeira e atrapalhando minha rotina. Parecia que eu não tinha para onde fugir. 
 
 Decidi por fim, deixar esse projeto de lado. Poxa, dei um passo maior do que a perna, mordi mais do que eu podia comer. Enfim como diz a música do Sinatra, tive que engolir um pouco, cuspir o resto e como bom brasileiro, tive que dar uns passos para trás.
 
@@ -98,7 +98,7 @@ Hoje (precisando de um ajuste nessa barrigada)
 ![marc](https://lztforeferfiles.s3.us-west-2.amazonaws.com/marc-bp1.jpg)
 
 
-Neste projeto sobrou muito MDF e eu precisava fazer alguma coisa com todo aquele material, foi a desculpa perfeita para comprar todos os materiais e ferramentas que eu precisava, serra circular, tupia, grampos, reguas, moldes, brocas, colas, enfim, fui consumido pelo "hobby". 
+Neste projeto sobrou muito MDF e eu precisava fazer alguma coisa com todo aquele material, foi a desculpa perfeita para comprar todos os materiais e ferramentas que eu precisava, serra circular, tupia, grampos, régua, moldes, brocas, colas, enfim, fui consumido pelo "hobby". 
 
 De uma forma ou de outra, foi o suficiente para aproveitar melhor todos os pedaços de madeira que eu tinha, então eu cortei a mesa velha (aquela ainda sobrevivente dos pés metálicos) e juntei com um resto de MDF das prateleiras e chananannnn, eis que surge a SAPATEIRA: 
 
@@ -110,9 +110,9 @@ Hoje:
 
 ![marc](https://lztforeferfiles.s3.us-west-2.amazonaws.com/marc-bp4.jpg)
 
-A casa ficou e está repleta de pedacinhos de MDF por todos os cantos (eu não tenho uma oficina decidada a isso - AINDA). 
+A casa ficou e está repleta de pedacinhos de MDF por todos os cantos (eu não tenho uma oficina dedicada a isso - AINDA). 
 
-Assim, fui treinando outras habilidades que eu poderia utilizar para fazer o criado mudo, como parafusar, colar, cortar, alinhar e instalar as gavetas (tutorial do Youtube) até que eu decidi encarar finalmente o projeto, aqui é um dia de luta com os materiais: 
+Assim, fui treinando outras habilidades que eu poderia utilizar para fazer o criado mudo, como parafusar, colar, cortar, alinhar e instalar as gavetas (tutorial do YouTube) até que eu decidi encarar finalmente o projeto, aqui é um dia de luta com os materiais: 
 
 ![marc](https://lztforeferfiles.s3.us-west-2.amazonaws.com/marc-bp7.jpg)
 

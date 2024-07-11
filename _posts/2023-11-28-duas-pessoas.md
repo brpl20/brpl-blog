@@ -13,7 +13,7 @@ Os que ignoram, estão alheios ao que acontece no mundo e a sua volta e circulam
 
 Erros são repetidos e jogados para baixo do tapete para quem ignora a realidade da vida. Não importa com o que acontece à sua volta, quem erra muito e não aprende vai aceitando tudo, escondendo os problemas e escondendo si mesmo dos problemas. Prefere viver com eles do que enfrenta-los diretamente até que eles sumam ou se tornem monstros gigantescos que o devoram. 
 
-Quem aprende enfrenta seus problemas e em primiro lugar, não esconde de si mesmo. Enfrenta o problema ainda quando ele está nascendo e segue em frente. 
+Quem aprende enfrenta seus problemas e em primeiro lugar, não esconde de si mesmo. Enfrenta o problema ainda quando ele está nascendo e segue em frente. 
 
 Suspeito que aqueles que não aprendem não possuem nem mesmo consciência do que está acontecendo a sua volta. De forma que não percebem que estão arrastando um problema ou realizando determinada ação de forma ineficaz por anos e talvez até décadas. 
 
@@ -23,4 +23,4 @@ Um bestseller famoso é o Atomic Habits, que diz para se melhorar 1% por dia e n
 
 > Refletindo sobre minha própria vida, notei que a maioria das coisas que realmente saíram dos trilhos foram, de fato, consequências de negligência incremental e inúmeras escolhas pequenas, porém ruins. 
 
-Essa supersimplificação do ser humano é interessante para nos entendermos melhor. É bobo, mas funciona. Enfim, só um pequeno raciocínio sobre os problemas qu enfretamos dia-dia e como crescemos ou nos destruímos com coisas pequenas.
+Essa supersimplificação do ser humano é interessante para nos entendermos melhor. É bobo, mas funciona. Enfim, só um pequeno raciocínio sobre os problemas qu enfrentamos dia-dia e como crescemos ou nos destruímos com coisas pequenas.

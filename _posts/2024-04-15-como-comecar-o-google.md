@@ -7,7 +7,7 @@ categories: hackernews
 
 Esse é um repost do texto publicado por Paul Graham no seu [blog](https://paulgraham.com/google.html). Em resumo, aprenda e execute, faça coisas, produza. E esse é mais do que um pensamento que eu tenho tido nos últimos tempos. Tem sido um estilo de vida, uma ideia, um propósito e uma filosofia pela qual eu tenho seguido. Esta é uma ideia que eu planejo desenvolver mais no decorrer dos próximos posts do blog. 
 
-Eu jamais construi nada parecido com a Google e seria muita pretensão vir aqui falar sobre isso, porém o Paul Graham é um cara muito conhecido e respeitado no meio das Startups. 
+Eu jamais construí nada parecido com a Google e seria muita pretensão vir aqui falar sobre isso, porém o Paul Graham é um cara muito conhecido e respeitado no meio das Startups. 
 
 > Paul Graham é um empreendedor, investidor, autor e programador norte-americano conhecido por suas contribuições significativas ao mundo das startups e da programação. Nascido em 13 de novembro de 1964, Graham co-fundou a Viaweb, uma das primeiras empresas de comércio eletrônico, que mais tarde foi adquirida pela Yahoo e renomeada como Yahoo Store.
 >

@@ -35,7 +35,7 @@ Nessas divagações, percebo que o mais importante, para sair deste senso comum.
 
 A intencionalidade de executar uma ação especial. Ninguém nasce com esse conceito embutido em si mesmo. Creio que nós temos, muito pelo contrário, propensão a fazer o básico, o mínimo e como sempre, estar dentro da média, passar de ano e sobreviver.
 
-No Overdelivery precisamos ir além daquilo que nos oferecemos, de forma intencional. Há diversos exemplos no mundo corportativo, de empresas que se destacaram neste ou naquele segmento, grandes nomes e grandes exemplos. 
+No Overdelivery precisamos ir além daquilo que nos oferecemos, de forma intencional. Há diversos exemplos no mundo corporativo, de empresas que se destacaram neste ou naquele segmento, grandes nomes e grandes exemplos. 
 
 Provavelmente você mesmo possui a experiência necessária para identificar esse comportamento em alguma experiência que você já tenha tido e que foi marcante.
 
@@ -45,9 +45,9 @@ Não gosto muito destes exemplos estratosféricos de bilionários, Bill Gates e 
 
 Um exemplo que identifiquei em algum desses vídeos de Instagram, foi de uma diarista nos EUA sempre achava uma forma de surpreender os seus clientes, com a prestação de algum serviço diferente, que na realidade não passava de um serviço rotineiro, como uma limpeza das janelas por exemplo. 
 
-A grande sacada foi, além de realizar com qualidade o proposto, ela deixava uma nota na geladeira destacando esses serviços com uma mensagem carinhosa e de quebra, deixava no forno alguns cookies que ela comprava por valores módicos no super mercado, deixando a casa com uma aroma irresístivel quando os seus clientes chegavam.
+A grande sacada foi, além de realizar com qualidade o proposto, ela deixava uma nota na geladeira destacando esses serviços com uma mensagem carinhosa e de quebra, deixava no forno alguns cookies que ela comprava por valores módicos no super mercado, deixando a casa com uma aroma irresistível quando os seus clientes chegavam.
 
-Este exemplo ilustra um trabalho excepcional feito por um trabalhador comum e que ganhou grande destaque e posteriomente se transformou numa empresa de prestação de serviços, tamanho o poder deste conceito e aplicação prática. 
+Este exemplo ilustra um trabalho excepcional feito por um trabalhador comum e que ganhou grande destaque e posteriormente se transformou numa empresa de prestação de serviços, tamanho o poder deste conceito e aplicação prática. 
 
 Então é preciso se repensar da seguinte maneira quando nos deparamos com um destes exemplos: 
 
@@ -56,7 +56,7 @@ Então é preciso se repensar da seguinte maneira quando nos deparamos com um de
 - Eu estou destacando os trabalhos que eu estou fazendo? 
 - Estou fazendo ou finalizando algo especial além do esperado? 
 
-Preservendo-se o contexto geral da ideia aplicável ao negócio é possível utilizar muitos exemplos positivos. 
+Preservando-se o contexto geral da ideia aplicável ao negócio é possível utilizar muitos exemplos positivos. 
 
 Porém, o overdelivery não possui uma receita de bolo, não há uma regra ou talvez a única regra seja sair do padrão proposto e feito rotineiramente.
 

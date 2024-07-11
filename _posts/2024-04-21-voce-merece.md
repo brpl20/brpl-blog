@@ -20,7 +20,7 @@ Ter enfrentado pessoas.
 
 Pode ter a impressão de que não fez o suficiente. 
 
-Pode ter a impressão de que não vivedo o suficiente.
+Pode ter a impressão de que não vivido o suficiente.
 
 Pode ter a impressão de que não merece esse momento. 
 

@@ -15,7 +15,7 @@ Sempre foi possível perceber um fluxo de negócios indo e vindo, o que é norma
 
 > Em certos pontos comerciais, que eu chamo de "ponto amaldiçoado", aquele lugar que já foi um centro de estética, loja de bugigangas, casa de pão de queijo e estúdio de tatuagem e nunca vingou. Não há mágico que consiga fazer aquele lugar funcionar.
 
-Não, o que chama atenção atualmente é que mesmo negócios antigos e consolidados da cidade estão se extinguindo, mesmo em pontos incríveis, negócios tradicionais que estão na cidade há decadas estão simplesmente SUMINDO.
+Não, o que chama atenção atualmente é que mesmo negócios antigos e consolidados da cidade estão se extinguindo, mesmo em pontos incríveis, negócios tradicionais que estão na cidade há décadas estão simplesmente SUMINDO.
 
 Quais exatamente são os fatores que estão levando estes negócios a extinção eu não sei dizer. Quais os fatores micro/macro econômicos  envolvidos também não. Como falei, trata-se de uma observação pessoal, mas eu tenho um palpite: *Facilidade da transação Online*.
 
@@ -46,6 +46,6 @@ O que fez essa mudança de cenário simplesmente foi a competência dessas grand
 
 # Solução
 
-Tentar iniciar uma campanha contra o comércio online? Que bobagem. Como dizem, _não dá pra secar o oceano com um rodo_, não podemos esperar que o consumidor tenha uma compra consciente, pagando mais e torcendo pelo desenvolvimento da sua cidade e do seu país. No final, o que pesa mesmo é o reflexo imediato no bolso. Mesmo que no futuro ele venha a ser projudicado por esse tipo de monopólio, sem nem perceber.
+Tentar iniciar uma campanha contra o comércio online? Que bobagem. Como dizem, _não dá pra secar o oceano com um rodo_, não podemos esperar que o consumidor tenha uma compra consciente, pagando mais e torcendo pelo desenvolvimento da sua cidade e do seu país. No final, o que pesa mesmo é o reflexo imediato no bolso. Mesmo que no futuro ele venha a ser prejudicado por esse tipo de monopólio, sem nem perceber.
 
 O movimento é muito convergente para uma única ação e os esforços em sentido contrário praticamente são inúteis. Creio que a única saída seja formar pessoas melhores que consigam enxergar novas formas de recriar velhos produtos. De produzir melhor e terem mais capacidade de se adaptar as mudanças do mercado e da vida como um todo. São muitas mudanças rápidas em um mundo em constante transformação. Precisamos melhorar como um todo.

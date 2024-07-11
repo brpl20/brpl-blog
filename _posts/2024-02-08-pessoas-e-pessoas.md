@@ -11,7 +11,7 @@ Após ler o livro E-Myth - O mito do empreendedor", uma das lições que eu apre
 
 Profissionalizar é crescer. Manter no amadorismo é manter simples. Pouco ou nenhum colaborador. Menos clientes para se preocupar, menos demanda. São dois caminhos a seguir. Não é possível dizer quem está certo ou está errado. 
 
-Assim, no caminho da profissionalização é preciso crescimento, dedicação, equipe e um processo operacional redondo. Isso signfica muito mais trabalho, uma dedicação operacional muito maior do que um pequeno negócio, pelo menos a curto prazo.  
+Assim, no caminho da profissionalização é preciso crescimento, dedicação, equipe e um processo operacional redondo. Isso significa muito mais trabalho, uma dedicação operacional muito maior do que um pequeno negócio, pelo menos a curto prazo.  
 
 Já no caminho do amadorismo, você é seu negócio, você é o motor, o combustível e a engrenagem que movimenta o "o negócio". Daí o mito de pensar que você é um empreendedor. Na verdade você é seu próprio negócio. 
 
@@ -23,11 +23,11 @@ O que de fato, tem me chamado a atenção é que, depois da leitura, eu passei a
 
 Aqui estão as características mais comuns do "empreendedor" que está preso no seu próprio negócio: 
 
-1. Tudo está se deteriorando: Quando você chega, a impressão que você tem é de que está entrando em um túnel do tempo. Os principais itens de expositção dos produtos têm no mínimo vinte anos de existência, desbotado e até sujo. Você percebe que aquele local já teve seus dias de glória e que vive do passado. Nos restaurante o último poster de uma premiação é de 2005, suja e desbotada que já não significa nada; 
+1. Tudo está se deteriorando: Quando você chega, a impressão que você tem é de que está entrando em um túnel do tempo. Os principais itens de exposição dos produtos têm no mínimo vinte anos de existência, desbotado e até sujo. Você percebe que aquele local já teve seus dias de glória e que vive do passado. Nos restaurante o último poster de uma premiação é de 2005, suja e desbotada que já não significa nada; 
 
 2. Não há paciência: O atendimento acontece de forma automática. Não há cuidado com as respostas e com as que o cliente faz. O empresário se irrita com o que o cliente fala, especialmente se for algo muito óbvio que ele inclusive "já colocou no PDF do orçamento que enviou". O próprio dono do negócio quer terminar o atendimento o mais rápido possível. Passa a impressão de que o cliente é um peso. Que é muito difícil para aquela pessoa estar ali. Passa a sensação de que o cliente é uma enorme perda de tempo. 
 
-3. Fala mal dos concorrentes: Ao invés de se concentrar no seu negócio e nas suas oportunidades ele atribui o problema do seu negócio a terceiros, que "trabalham de forma incorreta" e não sabem como chegar a um orçamento decente ou que não são profissionais o suficiente. Sempre atribuíndo a culpa a terceiros e jamais às suas próprias dificuldades;
+3. Fala mal dos concorrentes: Ao invés de se concentrar no seu negócio e nas suas oportunidades ele atribui o problema do seu negócio a terceiros, que "trabalham de forma incorreta" e não sabem como chegar a um orçamento decente ou que não são profissionais o suficiente. Sempre atribuindo a culpa a terceiros e jamais às suas próprias dificuldades;
 
 4. Ocupado e reclamão: Diz que é muito ocupado, tem muitas rotinas e de como seu negócio é difícil e desgastante. Se você encontrar esse tipo de fornecedor, CORRA para o mais longe possível, já mostra sinais de desgaste e pouca organização. 
 

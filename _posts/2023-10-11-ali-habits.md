@@ -23,7 +23,7 @@ Ele não fala isso, mas a intro dele é uma sequência bombástica de cortes con
 A ideia é usar pequenos blocos de tempo. Parar de usar esses curtos períodos para navegar no Instagram, jogar um joguinho no celular ou fazer qualquer outra atividade inútil. Esses pequenos blocos, de aproximadamente 7 minutos, já são o suficiente para criar, produzir e pensar. É importante que você não desperdice esses períodos. Para isso, tenha sempre a mão as suas ferramentas de produção (celular, notas, cadernos, notebook etc). 
 
 ## Avatar Habit : Mantenha o "Level UP"
-Nesse ponto ele faz uma comparação com o desenho animado "avatar" em que o personagem mantem-se sempre em constante aprendizado. Uma questão que deve SEMPRE estar em evidência: **O que eu preciso aprender ou melhorar para me manter subindo de nível?:**
+Nesse ponto ele faz uma comparação com o desenho animado "avatar" em que o personagem mantém-se sempre em constante aprendizado. Uma questão que deve SEMPRE estar em evidência: **O que eu preciso aprender ou melhorar para me manter subindo de nível?:**
 1. Falar melhor, me adaptar melhor à câmera;
 2. Princípios de gravação de vídeos, aprender sobre som e áudio; 
 3. Melhorar Marketing, SEO, busca de palavras chave; 
@@ -37,7 +37,7 @@ Ele menciona brevemente a importância de manter um diário e aprendizado consta
 O sucesso do Starbucks e outras franquias famosas está no fato de conseguir uma excelência de padronização tão impressionante que a experiência ocorre de forma igual em qualquer lugar do mundo. Isso é devido a processos internos, que tornam aquele sistema perfeito e fácil de ser replicado. Pessoas sem experiência conseguem fazer um café igual a um barista profissional com um treinamento simples. 
 
 ## Infinite Gaming - Não pensar em um objetivo, manter-se no jogo para SEMPRE
-Esse conceito é bem interessante para evitarmos a armadilha de esperar um resultado. Criei um vídeo X e ganhei poucas visualizações e seguidores, VOU DESISTIR. Ou, vou parar quando eu atingir X seguidores. O melhor é pensar no Youtube como um sistema eterno, que nunca terá fim e que será constinuado mesmo se você não mais precisar dele, alguns elementos chave são importantes: 
+Esse conceito é bem interessante para evitarmos a armadilha de esperar um resultado. Criei um vídeo X e ganhei poucas visualizações e seguidores, VOU DESISTIR. Ou, vou parar quando eu atingir X seguidores. O melhor é pensar no Youtube como um sistema eterno, que nunca terá fim e que será continuado mesmo se você não mais precisar dele, alguns elementos chave são importantes: 
 - Não ser patrocinado => Fim da liberdade e legitimidade do conteúdo;
 - Que tipo de hábitos eu preciso adotar para continuar? 
 - Questionamento: Eu me manteria nesse jogo se eu ganhasse na loteria? 
@@ -66,7 +66,7 @@ Jornada antes do destino. Se divirta no processo!
 ## A Jornada do Aluno 
 https://www.youtube.com/watch?v=_03bRTobieo
 
-Optimizar o que as pessoas vêem primeiro: 
+Optimizar o que as pessoas veem primeiro: 
 1. Título
 2. Thumbs
 3. Hook 
@@ -80,7 +80,7 @@ Unfair Advantage of your Channel: O que você sabe mais do que os outros que pod
 4. Quem você conhece que pode lhe dar uma vantagem? 
 5. Qual experiências podem ser boas para seu canal, o que conhecimento você pode levar? 
 
-Don't worry about your NICHE: Não se preocuope, com o tempo seu nicho vai emergir de acordo com os seus interesses pessoais 
+Don't worry about your NICHE: Não se preocupe, com o tempo seu nicho vai emergir de acordo com os seus interesses pessoais 
 
 Channel Uniqueness => Better By Design Framework - Ranquear de 1/5 cada item 
 1. Intellect

@@ -29,7 +29,7 @@ Mesmo sabendo que determinada ação está errada, o interlocutor teimoso já in
 
 Porque esse comportamento é perigoso em muitos aspectos?
 
-1. Ele cria um comportamento de respulsa do usuário do produto/serviço. Um sentimento negativo, de culpabilidade, de desconsideração com suas necessidades básicas e obviamente ele irá procurar a solução no seu concorrente; 
+1. Ele cria um comportamento de repulsa do usuário do produto/serviço. Um sentimento negativo, de culpabilidade, de desconsideração com suas necessidades básicas e obviamente ele irá procurar a solução no seu concorrente; 
 
 2. Impede o crescimento da empresa e revisão dos seus processos e poderosos insights e conhecimento sobre o próprio negócio é perdido porque a empresa está muito ocupada para escutar "reclamações burras"; 
 
@@ -39,7 +39,7 @@ Sobre o segundo ponto, há um texto que circula na internet sobre uma montadora 
 
 https://www.linkedin.com/pulse/curious-case-vanilla-ice-cream-car-manisha-singh-0xbkc
 
-Se você não leu o artigo, no final de toda a investigação, após os engenheiros observarem o problema, acabou sendo a ponta do Iceberg para a descoberda de uma falha mecânica, que acabaria por ser descoberta eventualmente porém com um custo muito maior se a "reclamação maluca" do comprador não tivesse sequer ter sido cogitada.
+Se você não leu o artigo, no final de toda a investigação, após os engenheiros observarem o problema, acabou sendo a ponta do Iceberg para a descoberta de uma falha mecânica, que acabaria por ser descoberta eventualmente porém com um custo muito maior se a "reclamação maluca" do comprador não tivesse sequer ter sido cogitada.
 
 Outra situação que me chama atenção é que quanto maior a distância de conhecimento entre as duas partes, maior é a tendência de atribuição de culpa. 
 
@@ -54,7 +54,7 @@ Particularmente é um erro que muitas vezes eu acabo cometendo, uma vez que eu p
 ## Na Pratica 
 Enfim, eu acredito que devemos adotar algumas posturas para melhorar nossa comunicação: 
 
-1. Quando somos questionados de determinado erro de procedimento: Não partir do pressuposto que a pessoa está errada; Mas pelo menos perceber o que está acontecendo; Rever processos; Rever sistemas e situações; Melhorar mensagens de erro e informações dos sitemas; Melhroar Manuais; Caso seja detectado um problema com o usuário conversar com a pessoa e explicar qual seria o erro de procedimento do usuário.  
+1. Quando somos questionados de determinado erro de procedimento: Não partir do pressuposto que a pessoa está errada; Mas pelo menos perceber o que está acontecendo; Rever processos; Rever sistemas e situações; Melhorar mensagens de erro e informações dos sistemas; Melhroar Manuais; Caso seja detectado um problema com o usuário conversar com a pessoa e explicar qual seria o erro de procedimento do usuário.  
 
 2. Quando questionar alguém, tentar apontar de antemão os passos realizados e as dificuldades técnicas envolvidas no procedimento, para evitar que a pessoa aponte a culpabilidade diretamente para você; Buscar informações sobre o problema; Rever toda a operação realizada em busca de erros; Porém ainda não consigo definir claramente como melhorar a parte do "reclamador" uma vez que geralmente essas pessoas não são facilmente convencidas dos erros; 
 

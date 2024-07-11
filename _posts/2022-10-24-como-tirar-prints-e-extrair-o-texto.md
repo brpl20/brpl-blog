@@ -16,8 +16,8 @@ Há tempos estava pesquisando uma forma de fazer isso de forma fluída, sem prec
 Para implementar essa dica, você vai precisar do seguinte: 
 
 1. [Linux Ubuntu](https://ubuntu.com/);
-2. [Flameshot](https://github.com/flameshot-org/flameshot) => Aplicativo que tira os prints, um pouco mais versátil do que os disponibilizados pelos sistemas operacionais e linux em geral. 
-3. [Tesseract](https://github.com/tesseract-ocr/tesseract) => Uma biblioteca poderosa para o reconhecimento de texto em imagens, conhecido como OCR. Para dicas de instalação, acesse [aqui](https://tesseract-ocr.github.io/tessdoc/Installation.html) pelo linux é extremamente fácil usando o `sudo apt get`. 
+2. [Flameshot](https://github.com/flameshot-org/flameshot) => Aplicativo que tira os prints, um pouco mais versátil do que os disponibilizados pelos sistemas operacionais e Linux em geral. 
+3. [Tesseract](https://github.com/tesseract-ocr/tesseract) => Uma biblioteca poderosa para o reconhecimento de texto em imagens, conhecido como OCR. Para dicas de instalação, acesse [aqui](https://tesseract-ocr.github.io/tessdoc/Installation.html) pelo Linux é extremamente fácil usando o `sudo apt get`. 
 
 # Colocando tudo junto com um comando
 
@@ -35,4 +35,4 @@ Pronto! A mágica está feita.
 
 # Facilitando sua vida com um atalho 
 
-Depois, vá nas configurações do linux e crie um atalho para este comando, dispensando o uso do terminal. 
+Depois, vá nas configurações do Linux e crie um atalho para este comando, dispensando o uso do terminal. 

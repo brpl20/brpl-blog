@@ -7,7 +7,7 @@ categories: questionamentos
 
 # A Mentalidade Hacker
 
-Quando eu estava assistindo ao [Podcast do Joey vp-land](https://www.youtube.com/@vp-land) falando sobre stúdio virtual e podcast, o entrevistado [CoffeeZilla](https://www.youtube.com/@Coffeezilla) disse algo assim:
+Quando eu estava assistindo ao [Podcast do Joey vp-land](https://www.youtube.com/@vp-land) falando sobre studio virtual e podcast, o entrevistado [CoffeeZilla](https://www.youtube.com/@Coffeezilla) disse algo assim:
 
 > Faço qualquer coisa para não repetir uma tarefa
 
@@ -22,7 +22,7 @@ Então hoje eu vou falar sobre o...
 
 ## A Mentalidade Hacker
 
-Primeiro, o pensamento hacker não é algo malicioso, ruim, talvez você esteja pensando nos hackers dos anos 90 que invadiam sistemas e destruiam arquivos - não é isso, segundo o ChatGPT:
+Primeiro, o pensamento hacker não é algo malicioso, ruim, talvez você esteja pensando nos hackers dos anos 90 que invadiam sistemas e destruíam arquivos - não é isso, segundo o ChatGPT:
 
 > Um "hacker" é alguém que possui habilidades técnicas excepcionais na área de computação e tecnologia da informação. O termo pode ser usado de forma neutra para descrever alguém habilidoso em programação e sistemas computacionais. No entanto, também pode ter conotações negativas quando usado para descrever indivíduos que empregam suas habilidades para invadir sistemas de computadores, redes ou dispositivos com o objetivo de causar danos, roubar informações ou realizar atividades ilegais.
 
@@ -42,7 +42,7 @@ Quem tem o pensamento _hacker_ sempre vai querer melhorar seus processos, suas a
 O Hacker adota novas tecnologias. Talvez ele apenas teste, vai avaliar se realmente aquilo é útil ou não, porém nunca vai deixar de dar uma espiadinha.
 
 
-Quem não tem o pensamento hacker sequer vai olhar, vai achar uma desculpa e se manter no mesmo sistema de sempre. Para exemplifiar uma vez eu escutei uma pessoa falando o seguinte:
+Quem não tem o pensamento hacker sequer vai olhar, vai achar uma desculpa e se manter no mesmo sistema de sempre. Para exemplificar uma vez eu escutei uma pessoa falando o seguinte:
 
 > Se eu aprendo a fazer alguma coisa do jeito X, eu farei essa coisa do jeito X pelo resto da minha vida, eu simplesmente sou assim, pode ser com algo mais complexo ou simplesmente a forma de fazer e servir o café
 
