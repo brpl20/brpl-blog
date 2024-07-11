@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Parta do Pressuposto do Erro"
-categories: Aprendizados
 published: true
+categories: Aprendizados
 ---
 
 Se você é um ser humano você com certeza já experimentou alguma dessas situações:
