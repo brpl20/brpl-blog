@@ -4,19 +4,24 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Passionate web developer with expertise in full-stack Ruby on Rails development and a flair for crafting customized WordPress themes.
+Advogado Previdenciarista que gosta de tecnologia, programação e desenvolvimento de software e acima de tudo unindo tudo isso na construção de suas visões e sonhos. 
+
+_Construir nossos sonhos é uma atividade diária de luta e perseverança. Porém, não existe luta mais justa do que essa e nem um momento melhor do que o agora apara essa construção._
+
+
+## Projetos em Andamento
+- ProcStudio
+- ProcStudio IA
+- LoroGPT
+- QuitaSimples
+- Curso de IA
+- SuperSimples Advogados
+- WhatsAppOrganizator
 
 ## Github
 <a href="https://github.com/brpl20">GitHub</a>
 
-## Skills
-- Programming Languages: Ruby, PHP, JavaScript
-- Web Development: Ruby on Rails, WordPress, HTML, CSS
-- Database: MySQL, SQLite, Postgres
-- Version Control: Git, GitHub
-- Design: Adobe Photoshop, Adobe Illustrator, Figma
-
-## Education
-- Le Wagon Coding Bootcamp
-- Graduation Year: 2020
-- Location: São Paulo, SP, Brazil
+## Social 
+- InstaGram 
+- YouTube
+- LinkedIN 
