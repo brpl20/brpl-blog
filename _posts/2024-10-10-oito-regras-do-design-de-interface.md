@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IA e o fim da mediocridade"
+title: "As Oito Regras de Ouro do Design de Interface"
 published: true
 categories: Aprendizados
 ---
