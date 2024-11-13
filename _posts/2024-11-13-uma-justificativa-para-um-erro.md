@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Uma justificativa para cada erro"
-published: false
+published: true
 categories: Aprendizados
 ---
 
