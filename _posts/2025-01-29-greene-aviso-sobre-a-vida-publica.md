@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Alerta de Robert Greene: Mundo Público x Mundo Privado"
+published: true
+categories: Aprendizados
+---
+
 ## Alerta de Robert Greene: Mundo Público x Mundo Privado
 
 Alguns anos atrás, não lembro exatamente onde ou como, escutei alguém falando que o "Big Brother" só foi original na sua primeira edição e nas demais edições, não foi mais um reality show, porque cada participante incorporava um personagem, uma persona própria definida por estratégias e voltada para o jogo e atenta às possíveis reações do público que eram imaginadas conforme seus atos e os eventos se desencadeavam. 
